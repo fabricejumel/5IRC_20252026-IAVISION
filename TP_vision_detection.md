@@ -23,7 +23,7 @@ Le rendu sera fait sur git avec un rapport contenant les codes et exemples
 
 ## Partie 1 : Prise en main de YOLO dans le module DNN d'OpenCV
 
-1. **Question 1.1** : Quelles sont les classes reconnues par le réseau ? Tester une vingtaine d'iamages . Tester les réseaux Tiny-YOLO (disponible dans detection) et YOLO (à télécharger [YOLO](https://pjreddie.com/darknet/yolo/) 
+1. **Question 1.1** : Quelles sont les classes reconnues par le réseau ? Tester une vingtaine d'iamages . Tester les réseaux Tiny-YOLO (disponible dans detection [detection](detection)) et YOLO (à télécharger [YOLO](https://pjreddie.com/darknet/yolo/) 
 2. **Question 1.2** : À quoi sert le ou les thresholds ?
 3. **Question 1.3** : Quels sont les fichiers utilisés liés au réseau de neurones, que contiennent-ils précisément ?
 4. **Question 1.4** : Quelle est l’architecture du réseau YOLOv3 et YOLOv3 tiny ? Expliquer les différentes couches du réseau. Lesquelles dépendent du nombre de classes ?
