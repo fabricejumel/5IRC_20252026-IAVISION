@@ -35,11 +35,11 @@ TP 0 [TP Intro ](TP_intro.md)
 
 TP 1 [TP Couleur ](TP_couleur.md)
 
-TP 2 [TP detection ](TP_vision_detection.md)
+TP 2 [TP Intro detection ](TP_vision_detection.md)
 
-TP 3 [TP classification ]()
+TP 3 [TP classification et CNN ]()
 
-TP 4 [TP detection ]()
+TP 4 [TP detection suite ]()
 
 TP 5 [TP LLM ]()
 
