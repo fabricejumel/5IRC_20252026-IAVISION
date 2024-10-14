@@ -173,18 +173,7 @@ Proposer une modification du code `greenball_tracker` (en vous inspirant ou pas 
 ### Question 6
 Faites fonctionner votre code précédent en prenant en compte la couleur rose sur la vidéo `ball4.mp4`. l'idée est de suivre la boule la plus grosse à l'écran.
 
-### Question 8
+### Question 7
 A priori votre code passe d'une boule à l'autre (en trackant la plus grosse), comment est-il possible de rester toujours sur la même ?  
 Si vous n'avez pas le comportement a problème,  créer votre propre vidéo pour mettre en évidence le problème (Utiliser l’outil `cheese` sous Linux et une caméra pour cela).
-
-### Question 9
 Proposer un code qui résout ce problème. 
-
-### Question 10
-Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image. Valider votre code avec 2 nouvelles couleurs de balles 
-
-### Question 11
-En considérant que l’on connait la taille de la balle, proposer un code qui cherche à calculer la position de la balle dans un repère cartésien ou sphérique centré sur la caméra. Proposer une procédure d’étalonnage en effectuant plusieurs captation à des distances prédéfinies.
-
-### Question 12 (Bonus)
-Si on fait l’hypothèse que l’objet est une balle (ronde), montrer comment on peut prendre en compte l’information et reconstituer le cercle de contour de cette balle.
