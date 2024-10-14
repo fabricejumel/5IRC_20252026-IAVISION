@@ -37,4 +37,10 @@ TP 1 [TP Couleur ](TP_couleur.md)
 
 TP 2 [TP detection ](TP_vision_detection.md)
 
+TP 3 [TP classification ]()
+
+TP 4 [TP detection ]()
+
+
+
 
