@@ -10,7 +10,7 @@
 > Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome ou binome. Dans le cas des binomes, les 2 comptes doivent contribuer de manière équitable ( au sens git)
 
 > [!CAUTION]
-> Le rendu doit être finalisé pour le Lundi 14 octobre 2024 23H00 
+> Le rendu doit être finalisé pour le Mardi 12 novembre 2024 23H00 
 
 
 Il est recommandé de travailler dans un environnement virtuel
