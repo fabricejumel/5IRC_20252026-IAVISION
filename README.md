@@ -43,7 +43,7 @@ TP 4 [TP detection suite ]()
 
 TP 5 [TP LLM ]()
 
-TP6 [GAN et VAE] ()
+TP6 [GAN et VAE]()
 
 
 
