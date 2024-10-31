@@ -22,14 +22,14 @@ L'objectif principal est de tester les réseaux de neurones que je vous propose 
  
  Au passage il faudra bien sur expliquer tous les paramaetres utilisés pour l'apprentissage . Il est aussi important de définir les critéres de performances . Vous expliciterez en particulier pourquoi les plus importants sont associés au jeux de données de test (par oppposition à celui d'apprentissage) 
 
-5. **Analyse des couches :** Dans votre notebook, vous devrez expliquer les différentes couches utilisées dans les modèles (couches denses, couches de convolution, etc.) et leur rôle dans le traitement des données.
+3. **Analyse des couches :** Dans votre notebook, vous devrez expliquer les différentes couches utilisées dans les modèles (couches denses, couches de convolution, etc.) et leur rôle dans le traitement des données.
 
 > [!IMPORTANT]
 > La compréhension de cette partie  fera en particulier l'objet de l'examen
 
-7. **Proposition d'améliorations :** Vous êtes invités à proposer des solutions pour obtenir le meilleur score possible. Si vous avez utilisé des ressources extérieures, veillez à les citer dans votre travail.
+4. **Proposition d'améliorations :** Vous êtes invités à proposer des solutions pour obtenir le meilleur score possible. Si vous avez utilisé des ressources extérieures, veillez à les citer dans votre travail.
 
-8. **Synthèse des résultats :** Votre rendu final devra inclure des tableaux de synthèse des performances des différents modèles et des courbes montrant l'influence des choix effectués.
+5. **Synthèse des résultats :** Votre rendu final devra inclure des tableaux de synthèse des performances des différents modèles et des courbes montrant l'influence des choix effectués.
 
 ## Rendu
 - Le rendu doit être un unique fichier Jupyter Notebook, hébergé sur Gitlab est associé à votre rendu complet . L'avantage du format ipynb et qu'il contient le résulat de votre derniere execution avant sauvegarde mais il peut être aussi complétement regenerer avec les codes pythons
