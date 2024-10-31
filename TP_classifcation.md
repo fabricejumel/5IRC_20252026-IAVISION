@@ -20,9 +20,9 @@ L'objectif principal est de tester les réseaux de neurones que je vous propose 
 2. **Expérimentations avec les modèles :** Vous devrez tester les modèles proposés dans le notebook et ajuster les hyperparamètres pour voir comment cela impacte les performances.
 
  
- Au passage il faudra bien sur expliquer tous les paramaetres utilisés pour l'apprentissage . Il est aussi important de définir les critéres de performances . Vous expliciterez en particulier pourquoi les plus importants sont associés au jeux de données de test (par oppposition à celui d'apprentissage) 
+ Au passage il faudra bien sur expliquer tous les parametres utilisés pour l'apprentissage . Il est aussi important de définir les critéres de performances . Vous expliciterez en particulier pourquoi les plus importants sont associés au jeux de données de test (par oppposition à celui d'apprentissage) 
 
-3. **Analyse des couches :** Dans votre notebook, vous devrez expliquer les différentes couches utilisées dans les modèles (couches denses, couches de convolution, etc.) et leur rôle dans le traitement des données.
+3. **Analyse des couches :** Dans votre notebook, vous devrez expliquer en details  les différentes couches utilisées dans les modèles (couches denses, couches de convolution, etc.) et leur rôle dans le traitement des données. Citer vos references et vos  sources en particulier d'illustration de la convolution etc ... A la lecture de cette partie on doit comprendre le principe des differentes couches.
 
 > [!IMPORTANT]
 > La compréhension de cette partie  fera en particulier l'objet de l'examen
