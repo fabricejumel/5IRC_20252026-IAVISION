@@ -41,9 +41,9 @@ TP 3 [TP classification et CNN ]()
 
 TP 4 [TP detection suite ]()
 
-TP 5 [TP LLM ]()
+TP 5 [TP LLM ]() Pas à faire 
 
-TP6 [GAN et VAE]()
+TP6 [GAN et VAE]() Pas à faire 
 
 
 
