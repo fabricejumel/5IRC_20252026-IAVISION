@@ -11,7 +11,7 @@ L'objectif principal est de tester les réseaux de neurones que je vous propose 
 
 ## Tâches à réaliser
 1. **Utilisation du Notebook d'exemple :** Vous commencerez par un notebook d'exemple fourni, qui contient des modèles minimaux à tester. L'idée sera de le faire évolué pour en faire votre rendu. L'oideal est de l'executer sous google collab avec utilisatiton d'un gpu (ex T4).
-2. 
+
 | :boom: DANGER              |
 |:---------------------------|
 | :exclamation: Deconnecter vous de votre  session d'execution quand vous ne faites pas de calcul sous risque de vous faire bannir temporemement de l'usage des GPUs  :exclamation:|
