@@ -24,7 +24,7 @@ L'objectif principal est de tester les réseaux de neurones que je vous propose 
 5. **Analyse des couches :** Dans votre notebook, vous devrez expliquer les différentes couches utilisées dans les modèles (couches denses, couches de convolution, etc.) et leur rôle dans le traitement des données.
 
 > [!IMPORTANT]
-> La compréhension de cette partie en particulier fera l'objet de l'examen
+> La compréhension de cette partie  fera en particulier l'objet de l'examen
 
 7. **Proposition d'améliorations :** Vous êtes invités à proposer des solutions pour obtenir le meilleur score possible. Si vous avez utilisé des ressources extérieures, veillez à les citer dans votre travail.
 
