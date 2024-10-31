@@ -7,10 +7,11 @@ Une bibliographie sera fournie pour vous inspirer dans vos recherches et le dév
 Vous allez travailler sur le jeu de données CIFAR-10, qui contient 60 000 images de 10 classes différentes (aéronefs, automobiles, oiseaux, chats, cerfs, chiens, grenouilles, chevaux, navires, camions). L'objectif de ce projet est de tester divers modèles de réseaux de neurones pour la classification d'images et d'explorer l'influence des hyperparamètres sur les performances du modèle.
 
 ## Objectif
-L'objectif principal est de tester les réseaux de neurones que je vous propose et d'analyser leurs performances. Vous aurez à explorer les différents modèles, les hyperparamètres, tels que le taux d'apprentissage, le nombre d'époques, la taille des lots, et d'autres variables. Vous utiliserez des fonctions de perte et de précision pour évaluer vos modèles.
+L'objectif principal est de tester les réseaux de neurones que je vous propose et d'analyser leurs performances. Vous aurez à explorer les différents modèles et les hyperparamètres, tels que le taux d'apprentissage, le nombre d'époques, la taille des lots, et d'autres variables. Vous utiliserez des fonctions de perte et de précision pour évaluer vos modèles.
 
 ## Tâches à réaliser
-1. **Utilisation du Notebook d'exemple :** Vous commencerez par un notebook d'exemple fourni [CIFAR10_classification.ipynb](classification/CIFAR10_classification.ipynb), qui contient des modèles minimaux à tester. L'idée sera de le faire évolué pour en faire votre rendu. L'ideal est de l'executer sous google collab avec utilisation d'un gpu (ex T4).
+1. **Utilisation du notebook d'exemple :** Vous commencerez par un notebook d'exemple fourni [CIFAR10_classification.ipynb](classification/CIFAR10_classification.ipynb), qui contient des modèles minimaux à tester. L'idée sera de le faire évoluer pour en faire votre rendu. L'idéal est de l'exécuter sous Google Colab avec utilisation d'un GPU (ex. T4).
+
 
 | :boom: DANGER              |
 |:---------------------------|
