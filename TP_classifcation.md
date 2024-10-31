@@ -31,6 +31,8 @@ L'objectif principal est de tester les réseaux de neurones que je vous propose 
 
 5. **Synthèse des résultats :** Votre rendu final devra inclure des tableaux de synthèse des performances des différents modèles et des courbes montrant l'influence des choix effectués.
 
+6. **Explicabilité :** Une derniere partie pourra s'interesser à l'explicabilité des résultats , en utilisant par exemple GradCAM++ implémenté sous [tf_keras_vis](https://keisen.github.io/tf-keras-vis-docs/examples/attentions.html#GradCAM++)
+
 ## Rendu
 - Le rendu doit être un unique fichier Jupyter Notebook, hébergé sur Gitlab est associé à votre rendu complet . L'avantage du format ipynb et qu'il contient le résulat de votre derniere execution avant sauvegarde mais il peut être aussi complétement regenerer avec les codes pythons
 - Assurez-vous que votre notebook est bien documenté et que chaque section est clairement indiquée.
