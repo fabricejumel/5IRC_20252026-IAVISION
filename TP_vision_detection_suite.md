@@ -1,13 +1,13 @@
 
 # Sujet : Détection d'Objets avec TensorFlow
 
-## Question 1 (Rappel)
+## 1. Question 1 (Rappel)
 
  1.a Expliquer la différence entre la classification d’image, la détection d’image et la segmentation d’images
 
  1.b Quelles sont les grandes solutions de détection d’objets (voir par exemple [ici](https://developers.arcgis.com/python/guide/how-ssd-works/))
 
-## Question 2
+## 2. Question 2
 
 On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_detection.ipynb). 
 COmmencer par Changer le modele d'eécution pour utiliser un GPU 
@@ -28,7 +28,7 @@ Relancer le runtime en cliquant sur le bouton proposé
 
  2.d Tester sur une douzaine d’images de votre choix (Essayez d'utiliser des images contenant le plus de classes reconnues possible) et faites un tableau comparatif.
 
- Question 3
+ ## 3. Question 3
 
  3.a À quoi sert TensorFlow Hub, et existe-t-il des solutions équivalentes ?
 
