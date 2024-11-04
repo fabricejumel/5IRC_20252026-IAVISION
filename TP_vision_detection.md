@@ -49,7 +49,7 @@ Choissisez entre 5 et 10 objets, vous devrez faire une vingtaine de photo par ob
 > [!CAUTION]
 > Si la procedure d'export automatique de **Roboflow** vers **Ultralytics**  ne fonctionne pas, exporter au format yolov5 pytorch sur votre ordinateur pour le reinjecter comme dataset sous **Ultralytics**.
 
-4. **Question 3.3** : Repartir du code ([opencv_onxx_example.py ](detection/opencv_onxx_example.py )) opencv_onxx_example.py et l’adapter pour utiliser votre réseau ONNX. Expliquer les modifications effectuées, inclure le code et les captures d’écran. 
+4. **Question 3.3** : Repartir du code ([opencv_onxx_example.py ](detection/opencv_onxx_example.py ))  et l’adapter pour utiliser votre réseau ONNX. Expliquer les modifications effectuées, inclure le code et les captures d’écran. 
 
 ---
 
