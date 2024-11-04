@@ -168,7 +168,7 @@ Donne à priori une solution à ce problème ?
 Essayer d'expliquer comment.
 
 ### Question 5
-Proposer une modification du code `greenball_tracker` (en vous inspirant ou pas du code précédent) qui donne un comportement équivalent. Tester ce code si possible sur `ball2.mp4`.
+Proposer une modification du code `balls_tracker.py` (en vous inspirant ou pas du code précédent) qui donne un comportement équivalent. Tester ce code si possible sur `ball2.mp4`.
 
 ### Question 6
 Faites fonctionner votre code précédent en prenant en compte la couleur rose sur la vidéo `ball4.mp4`. l'idée est de suivre la boule la plus grosse à l'écran.
