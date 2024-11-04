@@ -9,8 +9,9 @@
 ## 2. Question 2
 
 On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_detection.ipynb). 
-COmmencer par Changer le modele d'eécution pour utiliser un GPU 
-**On retrograde une version numpy 
+Commencer par Changer le modele d'eécution pour utiliser un GPU 
+> [!CAUTION]
+> On retrograde une version numpy 
 Vous avez le message suivant : WARNING: The following packages were previously imported in this runtime:
   [numpy]
 You must restart the runtime in order to use newly installed versions.
