@@ -3,13 +3,14 @@
 
 ## Question 1 (Rappel)
 
-### 1.a Expliquer la différence entre la classification d’image, la détection d’image et la segmentation d’images
+ 1.a Expliquer la différence entre la classification d’image, la détection d’image et la segmentation d’images
 
-### 1.b Quelles sont les grandes solutions de détection d’objets (voir par exemple [ici](https://developers.arcgis.com/python/guide/how-ssd-works/))
+ 1.b Quelles sont les grandes solutions de détection d’objets (voir par exemple [ici](https://developers.arcgis.com/python/guide/how-ssd-works/))
 
 ## Question 2
 
-On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_detection.ipynb).  
+On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_detection.ipynb). 
+COmmencer par Changer le modele d'eécution pour utiliser un GPU 
 **On retrograde une version numpy 
 Vous avez le message suivant : WARNING: The following packages were previously imported in this runtime:
   [numpy]
