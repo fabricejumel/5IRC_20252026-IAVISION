@@ -10,7 +10,7 @@
 
 On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_detection.ipynb). 
 > [!TIP]
->Commencer par Changer le modele d'eécution pour utiliser un GPU
+>Commencer par Changer le modele d'exécution pour utiliser un GPU
 
 > [!CAUTION]
 > On retrograde une version numpy 
