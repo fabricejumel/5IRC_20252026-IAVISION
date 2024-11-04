@@ -15,7 +15,7 @@ Commencer par Changer le modele d'eécution pour utiliser un GPU
 Vous avez le message suivant : WARNING: The following packages were previously imported in this runtime:
   [numpy]
 You must restart the runtime in order to use newly installed versions.
-#Relancer le runtime en cliquant sur le bouton proposé
+>Relancer le runtime en cliquant sur le bouton proposé
 
 
 
