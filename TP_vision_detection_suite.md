@@ -25,7 +25,7 @@ Relancer le runtime en cliquant sur le bouton proposé
 
  2.c Quelles sont les structures des modèles de réseaux sous-jacents ?
 
- 2.d Tester sur une douzaine d’images de votre choix (Essayez d'utiliser des images contenant le plus de classes reconnues possible) et faites un tableau comparatif.
+ 2.d Tester sur une douzaine d’images de votre choix (Essayez d'utiliser (ou de générer)  des images contenant le plus de classes reconnues possible) et faites un tableau comparatif.
 
  ## 3. Question 3
 
