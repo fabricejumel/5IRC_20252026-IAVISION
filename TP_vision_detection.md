@@ -26,7 +26,7 @@ Le rendu sera fait sur git avec un rapport contenant les codes et exemples
 1. **Question 1.1** : Quelles sont les différentes classes reconnues par le réseau de neuronne  ?  Tester les réseaux Tiny-YOLO (disponible dans detection [detection](detection)) et YOLO (à télécharger [YOLO](https://pjreddie.com/darknet/yolo/) sur une dizaine d'images ([test_opencv_dnn_yolo_coco.py](detection/test_opencv_dnn_yolo_coco.py))
 2. **Question 1.2** : À quoi sert le ou les thresholds ?
 3. **Question 1.3** : Quels sont les fichiers utilisés liés au réseau de neurones, que contiennent-ils précisément ?
-4. **Question 1.4** : Quelle est l’architecture du réseau YOLOv3 et YOLOv3 tiny ? Expliquer les différentes couches du réseau. Lesquelles dépendent du nombre de classes ?
+4. **Question 1.4** : Quelle est l’architecture du réseau YOLOv3 et YOLOv3 tiny ? Expliquer les différentes couches du réseau (pas la peine de rentrer trop dasn le detail, cela fera l'objet d'une autre activitée). Lesquelles dépendent du nombre de classes ?
 5. **Question 1.5** : Trouvez-vous d’autres modèles pré-entraînés disponibles au téléchargement ? Tester les.
 
 ---
