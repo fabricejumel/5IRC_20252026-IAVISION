@@ -19,7 +19,6 @@ Relancer le runtime en cliquant sur le bouton proposé
 
 
 
-(Si pour une raison quelconque le code ne fonctionne pas, une solution peut être d'utiliser une autre version de `object_detection`, en ajoutant par exemple une cellule avant l'étape problématique : `!pip install object_detection==0.0.3`)**
 
 ### 2.a Quelles sont les classes reconnues par le réseau ?
 
