@@ -10,7 +10,15 @@
 ## Question 2
 
 On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_detection.ipynb).  
-**(Si pour une raison quelconque le code ne fonctionne pas, une solution peut être d'utiliser une autre version de `object_detection`, en ajoutant par exemple une cellule avant l'étape problématique : `!pip install object_detection==0.0.3`)**
+**On retrograde une version numpy 
+Vous avez le message suivant : WARNING: The following packages were previously imported in this runtime:
+  [numpy]
+You must restart the runtime in order to use newly installed versions.
+Relancer le runtime en cliquant sur le bouton proposé
+
+
+
+(Si pour une raison quelconque le code ne fonctionne pas, une solution peut être d'utiliser une autre version de `object_detection`, en ajoutant par exemple une cellule avant l'étape problématique : `!pip install object_detection==0.0.3`)**
 
 ### 2.a Quelles sont les classes reconnues par le réseau ?
 
