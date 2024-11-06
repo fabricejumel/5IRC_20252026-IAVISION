@@ -6,7 +6,7 @@
 ## Question 1
 
 On s’intéresse au réseau suivant :  
-[GAN Fashion-MNIST sur Google Colab](https://colab.research.google.com/github/timsainb/tensorflow2-generative-models/blob/master/2.0-GAN-fashion-mnist.ipynb> 
+[GAN Fashion-MNIST sur Google Colab](https://colab.research.google.com/github/timsainb/tensorflow2-generative-models/blob/master/2.0-GAN-fashion-mnist.ipynb) 
 
 > [!CAUTION]
 > En cas de problème  d'excecution sur la fin,  utilisez une version ulterieure de tensorflow
