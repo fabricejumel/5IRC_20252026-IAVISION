@@ -10,8 +10,8 @@ On s’intéresse au réseau suivant :
 
 [!CAUTION]
 > En cas de pb d'excecution sur la fin,  utiliser une version ulterieure de tensorflow
-!pip install tensorflow==2.12.0 (à faire section code notebook)
- et vous aurez sans doute  à relancer la machine d'execution pour la prise en compte
+>!pip install tensorflow==2.12.0 (à faire section code notebook)
+> et vous aurez sans doute  à relancer la machine d'execution pour la prise en compte
 
 **1.a** Mettre en œuvre le réseau.
 
