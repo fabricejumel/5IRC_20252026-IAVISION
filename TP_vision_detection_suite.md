@@ -43,3 +43,10 @@ You must restart the runtime in order to use newly installed versions.
 
  3.e Y a-t-il des exemples pour gérer une phase d’apprentissage ?
 
+ ## 4. Question 
+ 
+  4.a Quelle est le format d'entrée et surtout d'un reseau de detection ?
+  4.b Comment peux ton passer d'une architetcure de classifieur à une architectur de detecteur ? 
+  4.c A quoi ressemblerais dans ce cas la phase d'apprentissage ?
+  4.d Est il possible d'inclure un reseau de classifieur deja entrainé pour en faire un detecteur ?
+  4.e Doit on proceder dans ce cas a un finetuning ? si oui comment proceder et quelle serait le format du dataset ?
