@@ -48,7 +48,8 @@ You must restart the runtime in order to use newly installed versions.
 
 4.a Quel est le format d'entrée d'un réseau de détection ?
 
-4.b Comment peut-on transformer une architecture de classifieur en une architecture de détecteur ?
+4.b Comment peut-on transformer une architecture de classifieur en une architecture de détecteur ? (donner un exemple sur le reseau de votre choix)
+
 4.c À quoi ressemblerait, dans ce cas, la phase d'apprentissage ?
 
 4.d Est-il possible d'intégrer un réseau de classifieur déjà entraîné pour en faire un détecteur ?
