@@ -46,7 +46,7 @@ You must restart the runtime in order to use newly installed versions.
  ## 4. Question 4
  
 
-4.a Quel est le format d'entrée d'un réseau de détection ?
+4.a Quel est le format d'entrée d'un réseau de détection ? (Donner un exemple précis sur le reseau de votre choix)
 
 4.b Comment peut-on transformer une architecture de classifieur en une architecture de détecteur ? (donner un exemple sur le reseau de votre choix)
 
