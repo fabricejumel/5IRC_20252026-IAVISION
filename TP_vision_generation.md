@@ -39,6 +39,6 @@ Même question pour le code suivant :
 
 **1.f** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ?
 
-8. **1.e** Y a-t-il une différence entre les deux approches ?
+**1.e** Y a-t-il une différence entre les deux approches ?
 
 (BONUS) **1.f** Essayer d’utiliser le dataset Pokémon disponible sur Kaggle pour générer des Pokémon.
