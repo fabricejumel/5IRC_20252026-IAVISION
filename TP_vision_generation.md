@@ -8,7 +8,7 @@
 On s’intéresse au réseau suivant :  
 [GAN Fashion-MNIST sur Google Colab](https://colab.research.google.com/github/timsainb/tensorflow2-generative-models/blob/master/2.0-GAN-fashion-mnist.ipynb> 
 
-[!CAUTION]
+> [!CAUTION]
 > En cas de pb d'excecution sur la fin,  utiliser une version ulterieure de tensorflow
 >!pip install tensorflow==2.12.0 (à faire section code notebook)
 > et vous aurez sans doute  à relancer la machine d'execution pour la prise en compte
