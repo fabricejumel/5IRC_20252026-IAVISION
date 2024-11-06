@@ -43,7 +43,7 @@ You must restart the runtime in order to use newly installed versions.
 
  3.e Y a-t-il des exemples pour gérer une phase d’apprentissage ?
 
- ## 4. Question 
+ ## 4. Question 4
  
   4.a Quelle est le format d'entrée et surtout d'un reseau de detection ?
   4.b Comment peux ton passer d'une architetcure de classifieur à une architectur de detecteur ? 
