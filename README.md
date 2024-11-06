@@ -43,7 +43,7 @@ TP 4 [TP detection suite ](TP_vision_detection_suite.md)
 
 TP 5 [TP LLM ]() Pas à faire (si plus de temps ;-)
 
-TP6 [GAN et VAE](TP_vision_generation.md) Pas à faire  (si plus de temps ;-)
+TP6 [TP GAN et VAE](TP_vision_generation.md) Pas à faire  (si plus de temps ;-)
 
 
 
