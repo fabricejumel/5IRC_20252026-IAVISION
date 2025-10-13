@@ -6,7 +6,7 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
  logicielles, le format d'entrée et les format de sorties ainsi qu'une estimation des temps de traitements/puissance de calcul. 
 
  > [!IMPORTANT]
-> Ce travail pourrait se révelait très long, Vous devez donc  a minima proposer 3 solutions au total.
+> Ce travail pourrait se révelait très long. On proposera un  tableau de solutions existantes pour les items  2,5,7,8,9,11,13,14. On ne se limitera à utiliser une  IA pour generer le tableau  sans vérification des sites de references à ajouter dans votre tableau).  Vous develloperez à part du tableau a minima 3 solutions . L'idéal est pour ces solutions d'avoir tester s avec un exemple qui n'est pas celui de base associé à la solution.
 
 ### 1. **Détection d’objets et de personnes**
    - **Détection d’objets** : Identifier et localiser des objets dans l’environnement (ex. bouteilles, outils, meubles, etc.).
@@ -26,7 +26,8 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
    - **Segmentation instance** : Différencier plusieurs instances du même type d’objet (ex. deux chaises différentes dans une pièce).
 
 ### 4. **Reconstruction 3D et perception de la profondeur**
-   - **Stéréovision** : Utiliser deux caméras pour percevoir la profondeur et reconstruire des scènes en 3D.
+   - **Stéréovision** : Utiliser deux caméras 2D pour percevoir la profondeur et reconstruire des scènes en 3D.
+   - **Depth Camera** : Utilisation de camera 3D (ToF , structured Light, LiDAR)
 
 ### 5. **Navigation visuelle**
    - **Reconnaissance de l'environnement** : Identifier les obstacles et les zones dégagées pour la navigation.
@@ -68,6 +69,8 @@ Compléter/réorganiser cette liste si nécessaire. Trouver des exemples  en pyt
 ### 13. **Interaction homme-machine améliorée**
    - **Suivi des expressions faciales** : Détecter et analyser les émotions humaines à partir des expressions du visage pour améliorer l’interaction homme-robot.
    - **Interaction vocale basée sur la vision** : Utiliser la vision pour améliorer la reconnaissance vocale (en identifiant les personnes qui parlent par leurs mouvements de bouche).
+
+### 14. **D'autres idées ... ???**
 
 
 
