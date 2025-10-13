@@ -1,7 +1,6 @@
 # TP Couleur
 
-L’ensemble des comptes rendus est à rendre sous gitlab. Le travail est à effectuer en binôme. Une séance plus un peu de temps en plus doit suffire. 
-Le travail est à faire en autonomie par binôme. Le but est de s’habituer à travailler en consultant des ressources pertinentes sur internet en cas de besoin. L'usage de chapt-GPT est permis par contre, vous devrez fournir votre prompt de session (lien url fourni par chat-gpt par exemple). Il est fortement conseillé de ne pas copier/coller les codes mais de les retaper pour laisser à cvotre cerveau le temps de les assimiler
+L’ensemble des comptes rendus est à rendre sous gitlab. Le travail est à effectuer en monome. Le but est de s’habituer à travailler en consultant des ressources pertinentes sur internet en cas de besoin. L'usage de chaptGPT est permis par contre, vous devrez fournir votre prompt de session (lien url fourni par chat-gpt par exemple). Il est fortement conseillé de ne pas copier/coller les codes mais de les retaper pour laisser à votre cerveau le temps de les assimiler (oui  c'est pénible mais sinon notre cerveau n'a pas vu passer l'activité et n'en garde aucun souvenir ...)
 
 ## Objectif
 
@@ -168,12 +167,42 @@ Donne à priori une solution à ce problème ?
 Essayer d'expliquer comment.
 
 ### Question 5
-Proposer une modification du code `balls_tracker.py` (en vous inspirant ou pas du code précédent) qui donne un comportement équivalent. Tester ce code si possible sur `ball2.mp4`.
+Proposer une modification du code `greenball_tracker` (en vous inspirant ou pas du code précédent) qui donne un comportement équivalent. Tester ce code si possible sur `ball2.mp4`.
 
 ### Question 6
 Faites fonctionner votre code précédent en prenant en compte la couleur rose sur la vidéo `ball4.mp4`. l'idée est de suivre la boule la plus grosse à l'écran.
 
-### Question 7
+### Question 8
 A priori votre code passe d'une boule à l'autre (en trackant la plus grosse), comment est-il possible de rester toujours sur la même ?  
-Si vous n'avez pas le comportement a problème,  créer votre propre vidéo pour mettre en évidence le problème (Utiliser l’outil `cheese` sous Linux et une caméra pour cela).
+Créer une video pour bien montrer le pb (et sa resolution dans la question 9). Il fera parti du rendu. Utiliser par exemple l’outil `cheese` sous Linux et une caméra pour cela.
+
+### Question 9
 Proposer un code qui résout ce problème. 
+
+### Question 10
+Mettez en place un code permettant l’apprentissage de la couleur d’un objet se trouvant au milieu de l’image. Valider votre code avec 3 nouvelles couleurs de balles ( à prendre dans le stock de balles)
+
+
+### Question 11 – Estimation de distance par interpolation
+
+En connaissant le diamètre réel de la balle, proposez une méthode simple pour estimer sa distance par rapport à la caméra.
+
+Prenez plusieurs photos de la balle à différentes distances connues et mesurez le diamètre apparent en pixels sur chaque image. Concentrez-vous d’abord sur la médiatrice verticale pour effectuer vos mesures, puis observez ce qui se passe au niveau horizontal.
+
+À partir de ces mesures, construisez une relation simple, par interpolation linéaire ou polynomiale, entre la taille en pixels et la distance réelle. Testez cette relation sur des images prises à des distances inconnues.
+
+L’objectif de cette approche expérimentale est de préparer la question 12, où la distance sera estimée automatiquement grâce à la calibration de la caméra.
+
+---
+
+### Question 12 – Estimation automatique de la distance via calibration
+
+Utilisez la librairie **OpenCV** pour calibrer la caméra à partir d’un motif connu (échiquier ou autre).
+
+Expliquez à quoi correspondent la **matrice intrinsèque**, qui contient les informations de focale et de centre optique, et les **coefficients de distorsion** (radiale et tangente). Décrivez comment ces éléments permettent de corriger l’image afin de mesurer correctement les distances.
+
+Après correction de la distorsion, mesurez la taille apparente de la balle pour estimer automatiquement sa distance par rapport à la caméra, sans passer par une interpolation manuelle.
+
+Enfin, expliquez le lien avec la question 11 et comparez les deux approches en termes de précision et de principe.
+
+
