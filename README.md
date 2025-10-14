@@ -39,7 +39,7 @@ TP 2 [TP Intro detection ](TP_vision_detection.md)
 
 TP 3 [TP classification et CNN ](TP_classifcation.md)
 
-TP 4 [TP detection suite ](TP) A venir
+TP 4 [TP detection suite ](TP_vision_detection_suite.md) A venir
 
 TP 5 [TP LLM ](TP_LLM_intro.md) A venir 
 
