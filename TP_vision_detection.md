@@ -44,7 +44,7 @@ Le rendu sera fait sur git avec un rapport contenant les codes et exemples
 Choissisez entre 5 et 10 objets, vous devrez faire une vingtaine de photo par objets, ideallement avec des fonds différents et plusieurs objets par photo et des objets que vous ne voulez pas reconnaitre. 
 
 1. **Question 3.1** : Utiliser **Roboflow** pour créer un dataset (detector, bounding box ), puis lancer l’apprentissage sur Roboflow. Tester les résultats. Comment récupérer et utiliser le réseau généré ?
-2. **Question 3.2** :Exporter au format ultralytics Hub (download dataset puis format hultralytics hub).Rq :   Sous **Ultralytics** Lancer l'entrainement sous google collab en utilisant le format **YOLOv5lu**. Tester les résultats et comparer avec ceux de Roboflow. Vous pouvez exporter ensuite au format **ONNX**, 
+2. **Question 3.2** :Exporter au format ultralytics Hub (download dataset puis format hultralytics hub).Rq :   Sous [**Ultralytics**](https://hub.ultralytics.com/) Lancer l'entrainement sous google collab en utilisant le format **YOLOv5lu**. Tester les résultats et comparer avec ceux de Roboflow. Vous pouvez exporter ensuite au format **ONNX**, 
 > [!CAUTION]
 > Si la procedure d'export automatique de **Roboflow** vers **Ultralytics**  ne fonctionne pas, exporter au format yolov5 pytorch sur votre ordinateur pour le reinjecter comme dataset sous **Ultralytics**.
 hors opencv(dnn) 
