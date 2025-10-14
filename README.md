@@ -41,9 +41,11 @@ TP 3 [TP classification et CNN ](TP_classifcation.md)
 
 TP 4 [TP detection suite ](TP_vision_detection_suite.md)
 
-TP 5 [TP LLM ]() A venir 
+TP5 [TP GAN et VAE](TP_vision_generation.md)
 
-TP6 [TP GAN et VAE]() A venir 
+TP 6 [TP LLM ]() A venir 
+
+
 
 
 
