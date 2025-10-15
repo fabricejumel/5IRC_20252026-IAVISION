@@ -51,7 +51,7 @@ hors opencv(dnn)
 4. **Question 3.3** : Repartir du code ([opencv_onxx_example.py ](detection/opencv_onxx_example.py ))  et l’adapter pour utiliser votre réseau ONNX. Expliquer les modifications effectuées, inclure le code et les captures d’écran.
 
 > [!IMPORTANT]
-> Malheuresuement les versions d'openCV sont ne fonctionne pas toujours en fonction des formats ONXX . Vous devrez peut etre tester le format original pytorch sans passer par opencv (DNN). Par exmeple avec la librairie ultralytics)
+> Malheuresuement les versions d'openCV sont ne fonctionne pas toujours en fonction des formats ONXX . Vous devrez peut etre tester le format original pytorch sans passer par opencv (DNN). Par exemple avec la librairie ultralytics)
    
 
 ---
