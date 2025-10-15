@@ -37,6 +37,8 @@ TP 1 [TP Couleur ](TP_couleur.md)
 
 TP 2 [TP Intro detection ](TP_vision_detection.md)
 
+TP 3 intro [Intro EN et CNN ]()
+
 TP 3 [TP classification et CNN ](TP_classifcation.md)
 
 TP 4 [TP detection suite ](TP_vision_detection_suite.md)
