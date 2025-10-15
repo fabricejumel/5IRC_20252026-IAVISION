@@ -12,7 +12,7 @@ jusque
 
 — FIN QCM —
 
-Vous pourrez comme Rendu du TP_intro une synthese de ce que vous avez appris et de ce qui vous a le plus surpris. (Il est conseillé de finaliser ce TP intro, une fois  que vous avez dèja un peu avancé sur le TP classification.). 
+Vous pourrez (BONUS)  comme Rendu du TP_intro faire une synthese de ce que vous avez appris et de ce qui vous a le plus surpris. (Il est conseillé de finaliser ce TP intro, une fois  que vous avez dèja un peu avancé sur le TP classification.). 
 
 
 [Cours assez complet de l'ESIEE](https://perso.esiee.fr/~buzerl/sphinx_IA/10%20lapprentissage/lapprentissage.html)
